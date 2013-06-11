@@ -7,7 +7,7 @@ CamanJS as a Rails >=3.1 asset pipline gem.
 
 Add this line to your application's Gemfile:
 
-    gem 'camanjs-rails'
+    gem 'camanjs-rails', git: 'git@github.com:ksz2k/camanjs-rails.git'
 
 And then execute:
 
@@ -18,10 +18,6 @@ Or install it yourself as:
     $ gem install camanjs-rails
 
 ## Usage
-
-Add the following to your gemfile:
-
-    gem 'camanjs-rails', git: 'git@github.com:ksz2k/camanjs-rails.git'
 
 Add the following directive to your Javascript manifest file (application.js):
 
