@@ -1,7 +1,7 @@
 camanjs-rails
 =============
 
-[http://camanjs.com/|CamanJS] as a Rails >=3.1 asset pipline gem.
+[CamanJS](http://camanjs.com/) as a Rails >=3.1 asset pipline gem.
 
 ## Installation
 
