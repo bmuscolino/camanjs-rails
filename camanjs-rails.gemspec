@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Krzysiek Szczuka"]
   spec.email         = ["krzysiek@kstech.pl"]
   spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.summary       = %q{CamanJS as a Rails >=3.1 asset pipline gem}
   spec.homepage      = ""
   spec.license       = "MIT"
 
