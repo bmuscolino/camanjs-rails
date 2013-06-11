@@ -23,11 +23,11 @@ Add the following directive to your Javascript manifest file (application.js):
 
     //= require camanjs/caman.full
 
-If you want to include an jQuery adapter file, also add the following directive:
+If you want to include an jQuery adapter file, also add the following:
 
     //= require camanjs/adapters/jquery
 
-If you want to include a plugin file, also add the following directive:
+If you want to include a plugin file, also add the following:
 
     //= require camanjs/plugins/<plugin>
 
@@ -38,3 +38,7 @@ If you want to include a plugin file, also add the following directive:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## See also
+
+* https://github.com/Dinuz/camanjs-rails
