@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = CamanJS::VERSION
   spec.authors       = ["Krzysiek Szczuka"]
   spec.email         = ["krzysiek@kstech.pl"]
-  spec.description   = %q{camanjs for rails}
+  spec.description   = "camanjs for rails"
   spec.summary       = %q{CamanJS as a Rails >=3.1 asset pipline gem}
   spec.homepage      = ""
   spec.license       = "MIT"
